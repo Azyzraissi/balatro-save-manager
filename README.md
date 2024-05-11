@@ -50,7 +50,7 @@ A little bit of setup is required to automate the process.
 
 **Uploading a cloud save :** 
 
-- **Balatro iOS 🔼**
+- **Balatro iOS 🔼 UPLOAD**
   This Shortcut will make a backup of your local iPhone save in a folder named “ DATE TIME “ inside “Balatro Backup Saves” and will upload the local save file on the iPhone to the shared folder “Balatro Cloud Save”.
   Note : The local *Balatro* iOS save is located in Files -> On my iPhone -> Balatro -> game. The main folder containing the save has a Balatro icon.  
 
@@ -58,7 +58,7 @@ A little bit of setup is required to automate the process.
 
 **Downloading a cloud save :** 
 
-- **Balatro iOS 🔽⏬**
+- **Balatro iOS 🔽⏬ DOWNLOAD**
   This Shortcut will make a backup of your local iPhone save in a folder named “ DATE TIME “ inside “Balatro Backup Saves” and will download the shared save from the folder “Balatro Cloud Save”. 
 
 - This Shortcut will always overwrite your local iPhone save. A backup is always created to prevent any accidental save overwrite. 
@@ -87,7 +87,7 @@ Default Balatro macOS save location : __/Users/“username”/Library/Applicatio
 
 **Uploading a cloud save  :** 
 
-- **Balatro macOS 🔼**
+- **Balatro macOS 🔼 UPLOAD**
   This Shortcut will make a backup of your local macOS save in a folder named “ DATE TIME “ inside “Balatro Backup Saves” and will upload the local save inside the folder “Balatro Cloud Save”. 
 
 - This Shortcut will always overwrite the save inside the folder “Balatro Cloud Save”. Since it’s a shared save, only one can exist inside that folder. A backup is always created to prevent any 
@@ -95,7 +95,7 @@ accidental save loss.
 
 **Downloading a cloud save :** 
 
-- **Balatro macOS 🔽⏬**
+- **Balatro macOS 🔽⏬ DOWNLOAD**
   This Shortcut will make a backup of your local macOS save in a folder named “ DATE TIME “ inside “Balatro Backup Saves” and will download the shared save from the folder “Balatro Cloud Save”. 
 
 - This Shortcut will always overwrite your local macOS save. A backup is always created to prevent any accidental save overwrite. 
