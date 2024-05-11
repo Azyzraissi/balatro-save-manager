@@ -50,7 +50,7 @@ A little bit of setup is required to automate the process.
 
 After installing the iOS Shortcuts, the path to the iOS local save needs to be added manually in every iOS Shortcut. 
 In the Shortcuts app on iOS, edit every iOS Shortcut (3) to add the correct path. 
-A comment is has been added inside the shortcuts to help you find where the path needs to be added ( Exemple of the path to browse highlighted in the screenshots below ) 
+A comment has been added inside the shortcuts to help you find where the path needs to be added ( Exemple of the path to browse highlighted in the screenshots below ) 
 
 <br />
 <div align="center"><img src="https://github.com/Azyzraissi/balatro-save-manager/assets/91022358/d5675d16-77a8-404e-93d5-2dd791a9765c" width="350"> <img src="https://github.com/Azyzraissi/balatro-save-manager/assets/91022358/cdc605d9-8482-471d-9171-e8cfb4a11872" width="350"></div>
