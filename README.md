@@ -52,6 +52,7 @@ A little bit of setup is required to automate the process.
 
 - **Balatro iOS 🔼 UPLOAD**
   This Shortcut will make a backup of your local iPhone save in a folder named “ DATE TIME “ inside “Balatro Backup Saves” and will upload the local save file on the iPhone to the shared folder “Balatro Cloud Save”.
+  <br />
   Note : The local *Balatro* iOS save is located in Files -> On my iPhone -> Balatro -> game. The main folder containing the save has a Balatro icon.  
 
 - This Shortcut will always overwrite the save inside the folder “Balatro Cloud Save”. Since it’s a shared save between iOS and macOS, a unique version can exist inside that folder. A backup is created everytime to prevent any accidental save loss. 
