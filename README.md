@@ -48,12 +48,23 @@ A little bit of setup is required to automate the process.
 
 **On iOS - Shortcuts description :** 
 
+After installing the iOS Shortcuts, the path to the iOS local save needs to be added manually in every iOS Shortcut. 
+In the Shortcuts app on iOS, edit every iOS Shortcut (3) to add the correct path. 
+A comment is has been added inside the shortcuts to help you find where the path needs to be added ( Exemple of the path to browse highlighted in the screenshots below ) 
+
+<br />
+<div align="center"><img src="https://github.com/Azyzraissi/balatro-save-manager/assets/91022358/d5675d16-77a8-404e-93d5-2dd791a9765c" width="350"> <img src="https://github.com/Azyzraissi/balatro-save-manager/assets/91022358/cdc605d9-8482-471d-9171-e8cfb4a11872" width="350"></div>
+<br />
+
+The local *Balatro* iOS save is located in Files -> On my iPhone -> Balatro -> game. The main folder containing the save has a Balatro icon.  This path needs to be manually linked in every iOS shortcut.
+
+Once the paths are added, the Shortcuts are ready to use.
+
 **Uploading a cloud save :** 
 
 - **Balatro iOS 🔼 UPLOAD**
   This Shortcut will make a backup of your local iPhone save in a folder named “ DATE TIME “ inside “Balatro Backup Saves” and will upload the local save file on the iPhone to the shared folder “Balatro Cloud Save”.
   <br />
-  Note : The local *Balatro* iOS save is located in Files -> On my iPhone -> Balatro -> game. The main folder containing the save has a Balatro icon.  
 
 - This Shortcut will always overwrite the save inside the folder “Balatro Cloud Save”. Since it’s a shared save between iOS and macOS, a unique version can exist inside that folder. A backup is created everytime to prevent any accidental save loss. 
 
@@ -74,11 +85,11 @@ A little bit of setup is required to automate the process.
 
 **On macOS - Shortcuts description/configuration :** 
 
-After installing the macOS Shortcuts, the path to the macOS local save needs to be added manually in every macOS Shortcut. 
+Following iOS, after installing the macOS Shortcuts, the path to the macOS local save needs to be added manually in every macOS Shortcut. 
 In the Shortcuts app on macOS, Right-Click -> Edit every macOS Shortcut (3) to add the correct path. 
 A comment is written to help you find where the path needs to be added ( Path to browse highlighted in the screenshot below ) 
 
-Default Balatro macOS save location : __/Users/“username”/Library/Application Support/Balatro__
+Default Balatro macOS save location : **/Users/“username”/Library/Application Support/Balatro**
 
 <br />
 <div align="center"><img src="https://github.com/Azyzraissi/balatro-save-manager/assets/91022358/711032bb-f86d-47a8-8618-fd7c4b7b184e"></div>
