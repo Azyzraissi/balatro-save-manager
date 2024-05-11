@@ -35,7 +35,7 @@ A little bit of setup is required to automate the process.
 
 ## Installation 
 
-- Download and install the Shortcuts from the [Realases] page or install them directly from your browser on [RoutineHub](https://routinehub.co/user/Azyz) 
+- Download and install the Shortcuts from the [Realases](https://github.com/Azyzraissi/balatro-save-manager/releases) page or install them directly from your browser on [RoutineHub](https://routinehub.co/user/Azyz) 
 - Install Shortery for macOS from the AppStore. 
 
 ## Guide 
